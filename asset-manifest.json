@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-visualizer-test.git/static/css/main.62cb17f0.css",
+    "main.js": "/code-visualizer-test.git/static/js/main.56a6ee46.js",
+    "index.html": "/code-visualizer-test.git/index.html",
+    "main.62cb17f0.css.map": "/code-visualizer-test.git/static/css/main.62cb17f0.css.map",
+    "main.56a6ee46.js.map": "/code-visualizer-test.git/static/js/main.56a6ee46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62cb17f0.css",
+    "static/js/main.56a6ee46.js"
+  ]
+}
