@@ -44,3 +44,115 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+// --- Linear Data Structures ---
+
+// Arrays
+// - Static Array
+// - Dynamic Array
+// - Multi-dimensional Array
+// - Jagged Array
+// - Sparse Array
+
+// Linked Lists
+// - Singly Linked List
+// - Doubly Linked List
+// - Circular Linked List
+// - Header Linked List
+// - Multi-Linked List
+
+// Stacks
+// - Array-based Stack
+// - Linked List-based Stack
+// - Bounded Stack
+// - Concurrent Stack
+
+// Queues
+// - Array-based Queue
+// - Linked List-based Queue
+// - Circular Queue
+// - Priority Queue
+// - Double-Ended Queue (Deque)
+// - Bounded Queue
+// - Concurrent Queue
+
+// --- Non-Linear Data Structures ---
+
+// Trees
+// - General Tree
+// - Binary Tree
+// - Full Binary Tree
+// - Complete Binary Tree
+// - Perfect Binary Tree
+// - Degenerate/Pathological Tree
+// - Binary Search Tree (BST)
+// - AVL Tree
+// - Red-Black Tree
+// - Splay Tree
+// - Treap
+// - Scapegoat Tree
+// - B-Tree
+// - B+ Tree
+// - B\* Tree
+// - Trie (Prefix Tree)
+// - Suffix Tree
+// - Radix Tree (Patricia Tree / Crit-bit Tree)
+// - Heap
+// - Min-Heap
+// - Max-Heap
+// - Binomial Heap
+// - Fibonacci Heap
+// - KD-Tree (k-dimensional tree)
+// - Segment Tree
+// - Fenwick Tree (Binary Indexed Tree - BIT)
+// - Merkle Tree (Hash Tree)
+// - Spanning Tree
+// - Minimum Spanning Tree (MST)
+
+// Graphs
+// - Undirected Graph
+// - Directed Graph (Digraph)
+// - Directed Acyclic Graph (DAG)
+// - Weighted Graph
+// - Unweighted Graph
+// - Connected Graph
+// - Disconnected Graph
+// - Complete Graph
+// - Sparse Graph
+// - Dense Graph
+// - Multigraph
+// - Pseudograph
+// - Planar Graph
+
+// Hash Tables (Hash Maps)
+// - Separate Chaining (Open Hashing)
+// - Open Addressing (Closed Hashing)
+// - Linear Probing
+// - Quadratic Probing
+// - Double Hashing
+// - Cuckoo Hashing
+// - Extendible Hashing
+
+// --- Abstract Data Types (ADTs) & Conceptual Structures ---
+
+// Sets
+// - Hash Set
+// - Sorted Set (Tree Set)
+// - Bit Set
+
+// Maps (Associative Arrays / Dictionaries)
+// - Hash Map
+// - Sorted Map (Tree Map)
+
+// Strings
+// - Rope (Cord)
+// - Gap Buffer
+
+// Matrices
+// - Sparse Matrix
+
+// Union-Find (Disjoint Set Union)
+
+// Bloom Filter
+
+// Skip List
